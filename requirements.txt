@@ -1,0 +1,6 @@
+# Test runner. Not imported by the app.
+pytest
+
+# Bar chart on the dashboard (Chart button). HabitTracker returns the
+# minutes as plain numbers; only charts.py imports this package.
+matplotlib
